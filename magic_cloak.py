@@ -1,0 +1,1 @@
+This file contains the Python code for the Harry Potter-style invisibility cloak using OpenCV and NumPy. It captures live webcam video, detects red-colored objects, and replaces them with the background in real-time.
